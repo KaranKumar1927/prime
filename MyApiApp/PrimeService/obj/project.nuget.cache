@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eKGqCP6hJ339j0JqIR8f89oxGVzlhYjhLXaXwfcqkZ0GYDBVsm46Ih+/4Z/VyCfEimEOnmAAsz3biP0cmXxVMQ==",
+  "success": true,
+  "projectFilePath": "K:\\CSharpSamples\\MyApiApp\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\akash\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
